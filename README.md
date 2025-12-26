@@ -1,2 +1,0 @@
-# baikiemtra
-bài kiểm tra
